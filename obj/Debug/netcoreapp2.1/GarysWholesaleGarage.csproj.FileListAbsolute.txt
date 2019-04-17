@@ -1,0 +1,11 @@
+C:\Users\akjef\workspace\csharp\exercises\GarysWholesaleGarage\bin\Debug\netcoreapp2.1\GarysWholesaleGarage.deps.json
+C:\Users\akjef\workspace\csharp\exercises\GarysWholesaleGarage\bin\Debug\netcoreapp2.1\GarysWholesaleGarage.runtimeconfig.json
+C:\Users\akjef\workspace\csharp\exercises\GarysWholesaleGarage\bin\Debug\netcoreapp2.1\GarysWholesaleGarage.runtimeconfig.dev.json
+C:\Users\akjef\workspace\csharp\exercises\GarysWholesaleGarage\bin\Debug\netcoreapp2.1\GarysWholesaleGarage.dll
+C:\Users\akjef\workspace\csharp\exercises\GarysWholesaleGarage\bin\Debug\netcoreapp2.1\GarysWholesaleGarage.pdb
+C:\Users\akjef\workspace\csharp\exercises\GarysWholesaleGarage\obj\Debug\netcoreapp2.1\GarysWholesaleGarage.csprojAssemblyReference.cache
+C:\Users\akjef\workspace\csharp\exercises\GarysWholesaleGarage\obj\Debug\netcoreapp2.1\GarysWholesaleGarage.csproj.CoreCompileInputs.cache
+C:\Users\akjef\workspace\csharp\exercises\GarysWholesaleGarage\obj\Debug\netcoreapp2.1\GarysWholesaleGarage.AssemblyInfoInputs.cache
+C:\Users\akjef\workspace\csharp\exercises\GarysWholesaleGarage\obj\Debug\netcoreapp2.1\GarysWholesaleGarage.AssemblyInfo.cs
+C:\Users\akjef\workspace\csharp\exercises\GarysWholesaleGarage\obj\Debug\netcoreapp2.1\GarysWholesaleGarage.dll
+C:\Users\akjef\workspace\csharp\exercises\GarysWholesaleGarage\obj\Debug\netcoreapp2.1\GarysWholesaleGarage.pdb
