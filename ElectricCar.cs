@@ -20,6 +20,12 @@ namespace GarysWholesaleGarage
         {
             Console.WriteLine("I am at the charging station!!!!!");
         }
+           public override void Stop(){
+             Console.WriteLine("The vehicle comes to a slow stop.");
+         }
+         public override void Turn(){
+             Console.WriteLine("The vehicle turns right.");
+         }
 
 
         //defined ToString in order to display when loop over in program.cs

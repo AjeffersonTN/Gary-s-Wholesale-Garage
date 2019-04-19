@@ -20,6 +20,12 @@ namespace GarysWholesaleGarage
          public override void Drive(){
              Console.WriteLine($"The {MainColor} {VehicleName} with {NumberOfPassangers} passangers Whheeeww by you!");
          }
+         public override void Stop(){
+             Console.WriteLine("The vehicle comes to a fast stop.");
+         }
+         public override void Turn(){
+             Console.WriteLine("The vehicle turns right.");
+         }
 
 
 

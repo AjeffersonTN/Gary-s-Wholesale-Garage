@@ -14,5 +14,12 @@ namespace GarysWholesaleGarage
         public virtual void Drive (){
             Console.WriteLine("Vrooommm!");
         }
+        public virtual void Stop(){
+            Console.WriteLine("Stop");
+        }
+        public virtual void Turn(){
+            Console.WriteLine("Right");
+        }
     }
+
 }

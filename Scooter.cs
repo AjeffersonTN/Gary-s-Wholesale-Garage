@@ -19,6 +19,12 @@ namespace GarysWholesaleGarage
           public void ChargeBattery(){
             Console.WriteLine($"The {TypeName} is at the charging station!!!!!");
         }
+           public override void Stop(){
+             Console.WriteLine("The vehicle comes to a bouncing stop.");
+         }
+         public override void Turn(){
+             Console.WriteLine("The vehicle turns right.");
+         }
 
 
 

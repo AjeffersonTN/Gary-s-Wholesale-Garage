@@ -17,6 +17,12 @@ namespace GarysWholesaleGarage
          public void FuelPump(){
             Console.WriteLine("I am at the fuel station***");
         }
+           public override void Stop(){
+             Console.WriteLine("The vehicle comes to a fast stop.");
+         }
+         public override void Turn(){
+             Console.WriteLine("The vehicle turns up.");
+         }
 
         //defined ToString in ordeer to display when loop over in program.cs
         // public override string ToString()
