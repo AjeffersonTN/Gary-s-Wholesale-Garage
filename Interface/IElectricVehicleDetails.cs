@@ -6,7 +6,7 @@ namespace GarysWholesaleGarage
     {
       double BatteryKWh { get; set; }
       string MovementType { get; set; }
-      int NumberOfPassangers { get; set; }
+
       //method to charge chargebattery
       void ChargeBattery();
 

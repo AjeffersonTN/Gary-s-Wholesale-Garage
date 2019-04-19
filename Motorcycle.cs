@@ -4,14 +4,18 @@ using System.Collections.Generic;
 
 namespace GarysWholesaleGarage
 {
-    public class Motorcycle : IFuelVehicleDetails
+    public class Motorcycle : Vehicle, IFuelVehicleDetails
     {
         public string TypeName { get; set; }
         public int Wheels { get; set; }
         public int Speed { get; set; }
-        public int NumberOfPassangers { get; set; }
         public string MovementType { get;  set; }
         public string FuelType { get;  set; }
+
+         public override void Drive(){
+             Console.WriteLine($"The {MainColor} {VehicleName} with {NumberOfPassangers} passangers Zooommmomm by you!");
+         }
+
 
       public void FuelPump(){
             Console.WriteLine("I am at the fuel station***");

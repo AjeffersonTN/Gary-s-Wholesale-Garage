@@ -6,7 +6,7 @@ namespace GarysWholesaleGarage
     {
       string FuelType { get; set; }
       string MovementType { get; set; }
-      int NumberOfPassangers { get; set; }
+
 
       void FuelPump();
 

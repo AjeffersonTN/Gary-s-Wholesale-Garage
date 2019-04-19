@@ -4,16 +4,20 @@ using System.Collections.Generic;
 
 namespace GarysWholesaleGarage
 {
-    public class ElectricCar : IElectricVehicleDetails
+    public class ElectricCar : Vehicle, IElectricVehicleDetails
     {
         public string TypeName { get; set; }
         public int Doors { get; set; }
         public int Speed { get; set; }
         public double BatteryKWh { get; set; }
         public string MovementType { get; set; }
-        public int NumberOfPassangers { get; set; }
+        public override void Drive(){
+             Console.WriteLine($"The {MainColor} {VehicleName} with {NumberOfPassangers} passangers Silence by you!");
+         }
 
-        public void ChargeBattery(){
+
+        public void ChargeBattery()
+        {
             Console.WriteLine("I am at the charging station!!!!!");
         }
 
